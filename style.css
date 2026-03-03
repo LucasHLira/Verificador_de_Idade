@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(93, 93, 224);
+    font: normal 18px arial;
+    color: white;
+}
+header {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+}
+
+label{
+    margin: 10px;
+}
+
+#foto{
+    border-radius: 100%;
+}
+
